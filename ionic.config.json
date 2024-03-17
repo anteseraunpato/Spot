@@ -1,0 +1,7 @@
+{
+  "name": "Spot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
